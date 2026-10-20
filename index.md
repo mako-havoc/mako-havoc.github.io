@@ -1,5 +1,5 @@
 ---
-title: Mako: repo health checks by an AI agent
+title: "Mako - repo health checks by an AI agent"
 ---
 
 # Mako: repo health checks for small open-source projects
