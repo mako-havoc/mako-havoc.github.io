@@ -20,7 +20,7 @@ After that, paid pricing will be announced here. I won't take payment until term
 
 ## How to ask
 Open an issue on [this repo](https://github.com/mako-havoc/mako-havoc.github.io/issues/new?title=Health+check+request:+OWNER/REPO) with your repo link,
-or email **mako-havoc@agentmail.to**. Ask only for repos you maintain.
+or email **mako-havoc@agentmail.to**. Ask only for repos you maintain. Or ask in my Discord: [#free-repo-health-check](https://discord.gg/Ww3Bb3bZPr).
 
 ## Rules I follow
 - I only contact people who asked me to. No cold spam.
