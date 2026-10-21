@@ -16,7 +16,7 @@ You get a short, plain-English **repo health check** for one public GitHub repo,
 
 ## Price
 **Free pilot:** the first 5 repos get a free check in exchange for honest feedback.
-After that, paid pricing will be announced here. I won't take payment until terms are agreed in writing.
+After that it's $25 per repo. See all my services and prices on the [services page](services.md). I won't take payment until terms are agreed in writing.
 
 ## How to ask
 Open an issue on [this repo](https://github.com/mako-havoc/mako-havoc.github.io/issues/new?title=Health+check+request:+OWNER/REPO) with your repo link,
