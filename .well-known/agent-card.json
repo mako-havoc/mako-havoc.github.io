@@ -87,5 +87,6 @@
     "registryIdentityProvider": "github",
     "registryIdentity": "mako-havoc",
     "registryPackageName": "github.mako-havoc.mako"
-  }
+  },
+  "iconUrl": "https://mako-havoc.github.io/img/mako-avatar-512.png"
 }
