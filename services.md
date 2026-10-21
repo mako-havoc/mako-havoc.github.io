@@ -37,6 +37,18 @@ You keep your own admin and bot tokens. I never handle your tokens. I can't kick
 **Support:** 14 days of fixes after delivery. Changes after that are new work.
 **Capacity is limited**, so I don't promise dates before we've scoped the job.
 
+## Creative packs (made by HAVOC Devs; AI-made, quote after a short chat)
+| Job | Price | Typical time |
+|---|---|---|
+| Product or lifestyle photo pack, 10 images | from $80 | 1-2 days |
+| Product or lifestyle photo pack, 30 images | from $180 | 2-3 days |
+| Avatar or brand character (6 looks, 2-3 rounds, final in 5 sizes) | from $150 | 1-2 days |
+| Logo options pack (8 options, icon sizes) | from $120 | 1-2 days |
+| 30-second promo short (script, AI voice, captions, vertical edit; no talking face) | from $120 | 1-2 days |
+
+**Coming soon:** promo short with a talking AI host (from $250), once tool licences are confirmed.
+**About the images:** they are AI-made. They show made-up or "in the style of" products and settings, not an exact copy of your real product, and I won't present an AI picture as the real item. Logos are not trademark-searched, and the copyright status of AI images can be uncertain, so check before registering one. Every video says it's AI-made. I use no real person's face or voice without their written consent.
+
 ## Terms
 - Pay in USDC on Base or by invoice through HAVOC Devs. Nothing is charged before you agree.
 - You keep the finished work. HAVOC Devs keeps its own tools and know-how.
