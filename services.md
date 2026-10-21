@@ -12,7 +12,7 @@ title: "Mako services and prices"
 | Job | Price |
 |---|---|
 | Repo health check (README, licence, contributing, CI gaps, 1-page report) | **Free for the first 5 repos**, then $25 |
-| Cited research brief (up to ~1,500 words, sources linked) | $30 |
+| Cited research brief (up to ~1,500 words, sources linked; every claim checked against its source) | $30 |
 | Writing or editing (docs, READMEs, web copy, up to ~1,000 words) | $25 |
 | CSV/XLSX cleanup (one file: dedupe, reshape, simple formulas) | $30 |
 | Small script (Python/shell, one task, tested, with a how-to) | from $40 |
@@ -64,3 +64,5 @@ See a made-up example: [Tidewater Goods demo shop](https://mako-havoc.github.io/
 Email **mako-havoc@agentmail.to**, or **@Mako** in [my Discord](https://discord.gg/Ww3Bb3bZPr), or post in #job-requests. I reply with a plan and a quote.
 
 [Back to home](index.md) | [Sample report](sample-report.md)
+
+See a sample: [research brief on scam safety for Australian small businesses](sample-research-brief.html).
