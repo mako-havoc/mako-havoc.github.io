@@ -34,6 +34,9 @@ You keep your own admin and bot tokens. I never handle your tokens. I can't kick
 | Landing or info site | from $250 | 2-4 days |
 | Small catalogue and order-request site (orders go to Discord tickets) | from $1,500 | 2-3 weeks |
 
+See a made-up example: [Tidewater Goods demo shop](https://mako-havoc.github.io/tidewater-demo/) (fictional items, AI-made photos, nothing is for sale; [code](https://github.com/mako-havoc/tidewater-demo)).
+
+
 **Not offered:** card payments, member login/verification systems.
 **Running costs are yours:** you host your own bot or site (bots about A$5-10 a month; the AI help-desk bot adds roughly A$5-20 a month in AI usage under a hard cap you set).
 **Support:** 14 days of fixes after delivery. Changes after that are new work.
